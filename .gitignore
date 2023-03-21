@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Files to Ignore
-/.env
+.env
