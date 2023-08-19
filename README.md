@@ -4,8 +4,6 @@ Submitted by: Flora Huang
 
 This web app: Users can view and filter dog pictures by banning its attributes.
 
-Time spent: 6 hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
